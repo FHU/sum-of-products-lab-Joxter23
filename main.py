@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
     sum = sum_of_products(list1,list2)
     print(sum)
+    #adding comment
